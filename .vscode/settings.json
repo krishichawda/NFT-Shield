@@ -1,0 +1,6 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    "cSpell.words": [
+        "tailwindcss"
+    ]
+}
