@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/minter.js", "pages/cart.jsx", "hooks/useContract.js", "pages/User.jsx", "pages/api/uri.ts"],
   "exclude": ["node_modules"]
 }

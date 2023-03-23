@@ -1,6 +1,5 @@
 {
-    "solidity.defaultCompiler": "localFile",
-    "cSpell.words": [
-        "tailwindcss"
-    ]
+  "solidity.defaultCompiler": "localFile",
+  "cSpell.words": ["tailwindcss"],
+  "solidity.compileUsingLocalVersion": "/home/krishi/Nft_Warranty/soljson-v0.8.17+commit.8df45f5f.js"
 }
